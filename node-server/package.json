@@ -1,7 +1,13 @@
 {
+  "name": "ws-server",
+  "version": "1.0.0",
+  "type": "module",
   "dependencies": {
     "express": "^5.1.0",
     "tinybase": "^6.0.0",
     "ws": "^8.18.1"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }

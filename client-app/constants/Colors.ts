@@ -1,8 +1,3 @@
-/**
- * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
- * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
- */
-
 const tintColorLight = "#0a7ea4";
 const tintColorDark = "#fff";
 
@@ -223,7 +218,6 @@ export const backgroundColors = [
 ];
 
 export const emojies = [
-  // Fruits
   "🍏",
   "🍎",
   "🍐",
@@ -242,7 +236,6 @@ export const emojies = [
   "🥥",
   "🥝",
 
-  // Vegetables
   "🍅",
   "🍆",
   "🥑",
@@ -258,33 +251,28 @@ export const emojies = [
   "🧅",
   "🍄",
 
-  // Breads & Bakery
   "🍞",
   "🥖",
   "🥨",
   "🥐",
   "🥯",
 
-  // Dairy & Eggs
   "🧀",
   "🥚",
   "🍳",
   "🥞",
   "🧇",
 
-  // Meats
   "🥓",
   "🥩",
   "🍗",
   "🍖",
 
-  // Fast Foods
   "🌭",
   "🍔",
   "🍟",
   "🍕",
 
-  // Wraps, Sandwiches & Ethnic Foods
   "🥪",
   "🌮",
   "🌯",
@@ -292,7 +280,6 @@ export const emojies = [
   "🥙",
   "🧆",
 
-  // Pasta, Rice & Asian Foods
   "🍜",
   "🍝",
   "🍣",
@@ -304,7 +291,6 @@ export const emojies = [
   "🥘",
   "🥗",
 
-  // Snacks & Misc
   "🍿",
   "🧈",
   "🥫",
@@ -316,7 +302,6 @@ export const emojies = [
   "🥠",
   "🥡",
 
-  // Desserts & Sweets
   "🍦",
   "🍧",
   "🍨",
@@ -331,11 +316,9 @@ export const emojies = [
   "🍫",
   "🍯",
 
-  // Nuts
   "🥜",
   "🌰",
 
-  // Drinks
   "🥛",
   "🧃",
   "🧉",
@@ -353,14 +336,12 @@ export const emojies = [
   "☕️",
   "🫖",
 
-  // Utensils & Condiments
   "🥄",
   "🍴",
   "🍽",
   "🥢",
   "🧂",
 
-  // Shopping & Payment
   "🛒",
   "🛍️",
   "🧺",
@@ -379,7 +360,6 @@ export const emojies = [
   "📮",
   "🏷️",
 
-  // Organizational / Utility
   "✅",
   "📋",
   "📜",
@@ -410,14 +390,12 @@ export const emojies = [
   "⚖️",
   "🏠",
 
-  // Transportation & Movement (for shopping trips)
   "🚗",
   "🏃‍♂️",
   "🏃‍♀️",
   "🚶‍♂️",
   "🚶‍♀️",
 
-  // Clothing (Items to buy)
   "👕",
   "👖",
   "👗",
@@ -436,7 +414,6 @@ export const emojies = [
   "🕶️",
   "👒",
 
-  // Household Items (Things you might add to a shopping list)
   "🪣",
   "🪑",
   "🛋️",
